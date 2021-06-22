@@ -1,0 +1,2 @@
+requests
+git+https://github.com/Hiroshiba/acoustic_feature_extractor
